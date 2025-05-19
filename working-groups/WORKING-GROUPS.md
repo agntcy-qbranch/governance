@@ -27,7 +27,7 @@ The current working groups are:
   - [Workflow server](https://github.com/agntcy/workflow-srv)
   - [IO Mapper](https://github.com/agntcy/iomapper-agnt)
   - [API bridge](https://github.com/agntcy/api-bridge-agnt)
-- Discussion Channel: **TBD**
+- Discussion Channel: **wg-core** in the AGNTCY Slack instance: https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg
 
 | &nbsp;                                                   | Leads            | Company | Profile                                 |
 | -------------------------------------------------------- | ---------------- | ------- | --------------------------------------- |
@@ -44,7 +44,7 @@ The current working groups are:
 - Meetings: **TBD**
 - Repos:
   - **To be announced**
-- Discussion Channel: **TBD**
+- Discussion Channel: **wg-observe-and-eval** in the AGNTCY Slack instance: https://join.slack.com/t/agntcy/shared_invite/zt-34sxmw5e8-LqlUxxcxROq3HRb56QSkUg
 
 | &nbsp;                                                   | Leads            | Company | Profile                                 |
 | -------------------------------------------------------- | ---------------- | ------- | --------------------------------------- |
